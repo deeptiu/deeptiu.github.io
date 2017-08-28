@@ -114,7 +114,7 @@ body {
 }
 
 #navsettings {
-  background: transparent;
+  background: rgba(255, 255, 255, 0.5);
   font-family: "Paytone One";
   padding-top: 30px;
   margin-bottom: 0px;
@@ -122,4 +122,8 @@ body {
 
 .footer {
   color: #ffffff;
+}
+
+.icon {
+  background: transprent;
 }
