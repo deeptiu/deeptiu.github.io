@@ -117,8 +117,23 @@ body {
 #navsettings {
   background: rgba(200, 200, 255, 0.5);
   font-family: "Paytone One";
-  padding-top: 30px;
-  margin-bottom: 0px;
+  padding-top: 5px;
+  letter-spacing: 4px;
+  margin-bottom: 5px;
+}
+
+.navbar li a, .navbar .navbar-brand { 
+      color: #d5d5d5 !important;
+}
+.navbar-nav li a:hover {
+    color: #fff !important;
+}
+.navbar-nav li.active a {
+    color: #fff !important;
+    background-color: #29292c !important;
+}
+.navbar-default .navbar-toggle {
+    border-color: transparent;
 }
 
 .footer {
