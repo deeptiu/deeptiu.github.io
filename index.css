@@ -1,3 +1,19 @@
+html {
+  height: 100%;
+}
+body {
+  background: url('https://d2lm6fxwu08ot6.cloudfront.net/img-thumbs/960w/2XNR3JNVHP.jpg') no-repeat center center fixed;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+
+  min-height: 100%;
+  position: relative;
+  margin: 0;
+}
+
+/*jumbotron stuff*/
 /* Space out content a bit */
 body {
   padding-top: 20px;
@@ -45,6 +61,7 @@ body {
 .jumbotron {
   text-align: center;
   border-bottom: 1px solid #e5e5e5;
+  background: rgba(200, 54, 54, 0.5);
 }
 /*.jumbotron .btn {
   font-size: 21px;
@@ -83,14 +100,14 @@ body {
 #name {
   /*color: #CD5360;*/
   text-align: center;
-  font-size: 15px;
+  font-size: 50px;
   font-family:'Comfortaa';
-  font-weight: 700;
+  font-weight: 900;
 }
 
 .collegeinfo {
   text-align: center;
-  font-size: 7px;
+  font-size: 20px;
   font-family:'Comfortaa';
-  font-weight: 200;
+  font-weight: 400;
 }
