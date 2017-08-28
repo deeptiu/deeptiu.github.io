@@ -77,3 +77,20 @@ body {
     border-bottom: 0;
   }
 }
+
+
+/*header and basic info*/
+#name {
+  /*color: #CD5360;*/
+  text-align: center;
+  font-size: 15px;
+  font-family:Comfortaa;
+  font-weight: 700;
+}
+
+.collegeinfo {
+  text-align: center;
+  font-size: 7px;
+  font-family:Comfortaa;
+  font-weight: 200;
+}
