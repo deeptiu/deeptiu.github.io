@@ -126,7 +126,7 @@ body {
 }
 
 #navsettings {
-  background: rgba(200, 200, 255, 0.5);
+  background: rgb(200, 200, 255);
   font-family: "Paytone One";
   padding-top: 5px;
   letter-spacing: 4px;
@@ -147,6 +147,19 @@ body {
     border-color: transparent;
 }
 
+#connect {
+  width: 100%;
+  background: rgb(255, 255, 255);
+}
+
+#aboutme {
+  width: 100%;
+}
+
+#links {
+  width: 100%;
+  background: rgb(200, 200, 255);
+}
 .footer {
   color: #ffffff;
 }
