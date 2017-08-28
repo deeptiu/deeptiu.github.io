@@ -5,6 +5,8 @@ body {
   /*background: url('https://d2lm6fxwu08ot6.cloudfront.net/img-thumbs/960w/2XNR3JNVHP.jpg');*/
   background: url(' https://images.pexels.com/photos/165779/pexels-photo-165779.jpeg?w=940&h=650&auto=compress&cs=tinysrgb') center;
   background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
   /*-webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;*/
