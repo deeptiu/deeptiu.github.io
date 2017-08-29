@@ -106,7 +106,6 @@ body {
 
 .container .container-fluid {
   text-align: center;
-  border-bottom: 1px solid #e5e5e5;
   /*background: rgba(200, 200, 255, 0.5);*/
   font-size: 20px;
   font-family: "Paytone One";
@@ -158,18 +157,44 @@ body {
 #connect {
   max-width: 1500px;
   margin: auto;
+   text-align: center;
+  /*background: rgba(200, 200, 255, 0.5);*/
+  background: rgb(200, 200, 255);
+  font-size: 20px;
+  font-family: "Paytone One";
+  /*font-family:'Comfortaa';*/
+  font-weight: 200;
 }
 
 #aboutme {
   max-width: 1500px;
   margin: auto;
-  background: rgb(200,200,255);
+  /*background: rgb(200,200,255);*/
+   text-align: center;
+  background: rgba(200, 200, 255, 0.5);
+  font-size: 20px;
+  font-family: "Paytone One";
+  /*font-family:'Comfortaa';*/
+  font-weight: 200;
+}
+
+.linksbg {
+  background: url('https://d2lm6fxwu08ot6.cloudfront.net/img-thumbs/960w/2XNR3JNVHP.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
 }
 
 #links {
   max-width: 1500px;
-  background: rgba(200, 200, 255,0.5);
+  /*background: rgba(200, 200, 255,0.5);*/
   margin:auto;
+   text-align: center;
+  background: rgb(200, 200, 255);
+  font-size: 20px;
+  font-family: "Paytone One";
+  /*font-family:'Comfortaa';*/
+  font-weight: 200;
 }
 
 .footer {
