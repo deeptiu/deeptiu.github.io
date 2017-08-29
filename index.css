@@ -62,7 +62,7 @@ body {
 #basicinfo {
   text-align: center;
   border-bottom: 1px solid #e5e5e5;
-  background: rgba(200, 200, 255, 0.5);
+  /*background: rgba(200, 200, 255, 0.5);*/
 }
 
 /* Main marketing message and sign up button */
@@ -106,7 +106,7 @@ body {
 .container .container-fluid {
   text-align: center;
   border-bottom: 1px solid #e5e5e5;
-  background: rgba(200, 200, 255, 0.5);
+  /*background: rgba(200, 200, 255, 0.5);*/
   font-size: 20px;
   font-family: "Paytone One";
   /*font-family:'Comfortaa';*/
@@ -166,7 +166,7 @@ body {
 
 #links {
   max-width: 1500px;
-  background: rgb(200, 200, 255);
+  background: rgba(200, 200, 255,0.5);
   margin:auto;
 }
 
