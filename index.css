@@ -59,6 +59,12 @@ body {
   margin: 30px 0;
 }
 
+#basicinfo {
+  text-align: center;
+  border-bottom: 1px solid #e5e5e5;
+  background: rgba(200, 200, 255, 0.5);
+}
+
 /* Main marketing message and sign up button */
 .jumbotron .jumbotron-fluid{
   text-align: center;
@@ -115,6 +121,7 @@ body {
   font-family: "Paytone One";
   /*font-family:'Comfortaa';*/
   font-weight: 900;
+
 }
 
 .collegeinfo {
