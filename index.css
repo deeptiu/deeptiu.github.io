@@ -128,12 +128,12 @@ body {
   font-weight: 300;
 }
 
-.icon {
+/*.icon {
   background: transparent;
-  /*font-size: 2em;*/
+  font-size: 2em;
   text-align: center;
 }
-
+*/
 #navsettings {
   background: rgb(200, 200, 255);
   font-family: "Paytone One";
