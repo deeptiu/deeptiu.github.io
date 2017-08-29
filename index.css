@@ -130,6 +130,11 @@ body {
   font-weight: 300;
 }
 
+.icon {
+  background: transparent;
+  font-size: 10em;
+}
+
 #navsettings {
   background: rgb(200, 200, 255);
   font-family: "Paytone One";
@@ -200,6 +205,3 @@ body {
   color: #ffffff;
 }
 
-.icon {
-  background: transparent;
-}
