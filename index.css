@@ -134,6 +134,9 @@ body {
   text-align: center;
 }
 
+td {
+    text-align: center;
+}
 
 .fa-5x {
   font-size: 1em;
