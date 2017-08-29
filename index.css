@@ -60,7 +60,7 @@ body {
 }
 
 /* Main marketing message and sign up button */
-.jumbotron {
+.jumbotron .jumbotron-fluid{
   text-align: center;
   border-bottom: 1px solid #e5e5e5;
   background: rgba(200, 200, 255, 0.5);
@@ -134,7 +134,7 @@ body {
 }
 
 .navbar li a, .navbar .navbar-brand { 
-      color: #36067a !important;
+      color: #277737 !important;
 }
 .navbar-nav li a:hover {
     color: #000000 !important;
@@ -148,17 +148,20 @@ body {
 }
 
 #connect {
-  max-width: 1000px;
+  max-width: 1500px;
   background: rgb(255, 255, 255);
+  margin: auto;
 }
 
 #aboutme {
-  max-width: 1000px;
+  max-width: 1500px;
+  margin: auto;
 }
 
 #links {
-  max-width: 1000px;
+  max-width: 1500px;
   background: rgb(200, 200, 255);
+  margin:auto;
 }
 
 .footer {
