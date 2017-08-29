@@ -157,9 +157,10 @@ body {
 #connect {
   max-width: 1500px;
   margin: auto;
-   text-align: center;
+  text-align: center;
   /*background: rgba(200, 200, 255, 0.5);*/
   background: rgb(200, 200, 255);
+  color: #ffffff;
   font-size: 20px;
   font-family: "Paytone One";
   /*font-family:'Comfortaa';*/
