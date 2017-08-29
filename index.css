@@ -128,12 +128,12 @@ body {
   font-weight: 300;
 }
 
-/*.icon {
+.icon {
   background: transparent;
-  font-size: 2em;
+  padding: 20px 0px;
   text-align: center;
 }
-*/
+
 
 .fa-5x {
   font-size: 1em;
