@@ -148,16 +148,16 @@ body {
 }
 
 #connect {
-  width: 100%;
+  max-width: 100%;
   background: rgb(255, 255, 255);
 }
 
 #aboutme {
-  width: 100%;
+  max-width: 100%;
 }
 
 #links {
-  width: 100%;
+  max-width: 100%;
   background: rgb(200, 200, 255);
 }
 
@@ -166,5 +166,5 @@ body {
 }
 
 .icon {
-  background: transprent;
+  background: transparent;
 }
