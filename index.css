@@ -133,6 +133,7 @@ body {
 .icon {
   background: transparent;
   font-size: 10em;
+  text-align: center;
 }
 
 #navsettings {
