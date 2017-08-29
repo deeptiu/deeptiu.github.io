@@ -134,6 +134,10 @@ body {
   text-align: center;
 }
 */
+
+.fa-5x {
+  font-size: 1em;
+}
 #navsettings {
   background: rgb(200, 200, 255);
   font-family: "Paytone One";
